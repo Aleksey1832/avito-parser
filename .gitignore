@@ -1,0 +1,5 @@
+.venv/
+logs/
+*.xlsx
+__pycache__/
+.idea/

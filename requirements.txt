@@ -1,0 +1,6 @@
+playwright
+pandas
+openpyxl
+customtkinter
+fake-useragent
+playwright-stealth
